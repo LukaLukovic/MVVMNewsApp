@@ -45,3 +45,11 @@ n
 >app/src/main/java/com/androiddevs/mvvmnewsapp/models/Source.kt,5\2\5223eeb05a3f0078d11e54aa31fae2af1638087a
 o
 ?app/src/main/java/com/androiddevs/mvvmnewsapp/util/Constants.kt,0\a\0afcd51535bfe4643607d42c7370b87997a4dc34
+`
+0app/src/main/res/menu/bottom_navigation_menu.xml,d\6\d6b83c453579d1c62b11597f7bfbba2e903ecd37
+
+Oapp/src/androidTest/java/com/androiddevs/mvvmnewsapp/ExampleInstrumentedTest.kt,f\c\fc82b59e002459d0c46244e883a8d2d84cc2ae14
+p
+@app/src/test/java/com/androiddevs/mvvmnewsapp/ExampleUnitTest.kt,3\d\3dda4d22eb897267197dc9c08a155fa35ba377cb
+o
+?app/src/main/java/com/androiddevs/mvvmnewsapp/NewsAplication.kt,8\3\83e309295e6c92744cdb8999f81b2285088c8ee1
